@@ -1,2 +1,2 @@
 # Olá, Mundo!
- Meu primeiro repositório no github.
+ Primeiro repositório no github.
